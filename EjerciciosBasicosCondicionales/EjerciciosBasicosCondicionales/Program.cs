@@ -642,7 +642,6 @@ namespace EjerciciosBasicosCondicionales
             }
             Console.ReadLine();
 
-
         }
 
     }
